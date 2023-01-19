@@ -1,0 +1,15 @@
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\HomeWork\task004\obj\Debug\net6.0\task004.csproj.AssemblyReference.cache
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\HomeWork\task004\obj\Debug\net6.0\task004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\HomeWork\task004\obj\Debug\net6.0\task004.AssemblyInfoInputs.cache
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\HomeWork\task004\obj\Debug\net6.0\task004.AssemblyInfo.cs
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\HomeWork\task004\obj\Debug\net6.0\task004.csproj.CoreCompileInputs.cache
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\HomeWork\task004\bin\Debug\net6.0\task004.exe
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\HomeWork\task004\bin\Debug\net6.0\task004.deps.json
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\HomeWork\task004\bin\Debug\net6.0\task004.runtimeconfig.json
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\HomeWork\task004\bin\Debug\net6.0\task004.dll
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\HomeWork\task004\bin\Debug\net6.0\task004.pdb
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\HomeWork\task004\obj\Debug\net6.0\task004.dll
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\HomeWork\task004\obj\Debug\net6.0\refint\task004.dll
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\HomeWork\task004\obj\Debug\net6.0\task004.pdb
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\HomeWork\task004\obj\Debug\net6.0\task004.genruntimeconfig.cache
+C:\Users\Hyperion1\Documents\учеба\Инженер по тестированию\Знакомство с языками программирования\HomeWork\task004\obj\Debug\net6.0\ref\task004.dll
