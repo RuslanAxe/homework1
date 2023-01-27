@@ -22,8 +22,9 @@ else
 {
 System.Console.WriteLine("Не верный ввод числа!");
 }
+
 System.Console.WriteLine();    
-static void SecondDigit(double number);
+static void SecondDigit(double number)
 { int result;
 if(number > 99 && number < 1000)
     {
