@@ -22,6 +22,6 @@ void PrintArray(int[] coll)
         position++;
     }
 }
-int [] array = new int [8];
+int [] array = new int [4];
 FillArray(array);
 PrintArray(array);
